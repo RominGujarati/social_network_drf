@@ -17,7 +17,7 @@ This project is a Django-based API for a social networking application, built us
 ## Installation
 
 1. **Clone the Repository:**
-   git clone <repository-url>
+   git clone https://github.com/RominGujarati/social_network_drf.git
 
 2. **Navigate to the Project Directory:**
     cd social_network_drf
